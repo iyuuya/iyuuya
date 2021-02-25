@@ -3,8 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iyuuya.iyuuya)
 
 ## 🖍  Languages and Tools:
-- First Language is Japanese
-- I'm studying English
+My first Language is Japanese. I'm studying English.
 
 ### ❤️ Loves
 - [Vim](https://www.vim.org/)
@@ -12,8 +11,7 @@
 
 ### 👍 Others
 - [Go](https://golang.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/) and [React](https://reactjs.org/)
 - [Docker](https://www.docker.com/)
 - etc...
 
