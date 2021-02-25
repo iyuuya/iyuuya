@@ -7,7 +7,7 @@ My first Language is Japanese. I'm studying English.
 
 ### ❤️ Loves
 - [Vim](https://www.vim.org/)
-- [Ruby](https://www.ruby-lang.org/) & [Rails](https://rubyonrails.org/)
+- [Ruby](https://www.ruby-lang.org/) and [Rails](https://rubyonrails.org/)
 
 ### 👍 Others
 - [Go](https://golang.org/)
