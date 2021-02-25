@@ -2,7 +2,10 @@
 [![Github](https://img.shields.io/github/followers/iyuuya?label=Follow&style=social)](https://github.com/iyuuya)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iyuuya.iyuuya)
 
-## 🖍 Languages and Tools:
+## 🖍  Languages and Tools:
+- First Language is Japanese
+- I'm studying English
+
 ### ❤️ Loves
 - [Vim](https://www.vim.org/)
 - [Ruby](https://www.ruby-lang.org/) & [Rails](https://rubyonrails.org/)
